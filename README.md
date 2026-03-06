@@ -1,5 +1,5 @@
 # 👨‍💻 Rodrigo C. Gouveia:
-Olá, sou Rodrigo Campos Gouveia, um estudante apaixonado por tecnologia e desenvolvimento de software, atualmente no terceiro período de Análise e Desenvolvimento de Sistemas na UNIPÊ. Como desenvolvedor front-end, busco sempre criar interfaces intuitivas e funcionais, com foco na experiência do usuário. Além de programar, sou também atleta de vôlei de praia, o que me ensinou a importância da disciplina, trabalho em equipe e perseverança, qualidades que aplico tanto no esporte quanto no mundo da tecnologia.
+Olá, sou Rodrigo Campos Gouveia, um estudante apaixonado por tecnologia e desenvolvimento de software, formado em Análise e Desenvolvimento de Sistemas na UNIPÊ. Como desenvolvedor front-end, busco sempre criar interfaces intuitivas e funcionais, com foco na experiência do usuário. Além de programar, sou também atleta de vôlei de praia, o que me ensinou a importância da disciplina, trabalho em equipe e perseverança, qualidades que aplico tanto no esporte quanto no mundo da tecnologia.
 <br><br>Aqui no meu GitHub, você encontrará projetos que misturam minhas habilidades técnicas com minha paixão por criar soluções práticas. Estou sempre aberto a aprender e colaborar em novos desafios!
 
 
